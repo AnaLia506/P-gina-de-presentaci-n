@@ -1,0 +1,53 @@
+body{
+    background:#FFC8DD;
+}
+
+.Presentación{
+    height: 600px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    border-radius: 34px;
+    box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.Presentación .img{
+    
+    width: 50%;
+    vertical-align: top;
+}
+
+.Información{
+    width: 100%;
+    border-radius: 0px 7px 10px 7px;
+    background: #CDB4DB;
+}
+
+.Texto{
+    width: 100%;
+}
+
+.Texto h1{
+    font-family: 'Indie Flower', cursiva;
+    margin-left: 100px;
+    padding-top: 52px;
+    
+}
+
+.Texto h2{
+    font-family: 'Raleway', sans-serif;
+    margin-left: 170px;
+}
+
+.Texto p{
+    font-family: 'Raleway', cursive ;
+    margin-left: 10px;
+    padding-top: 30px;
+}
+
+.Contacto{
+    margin-left: 180px;
+    padding-top: 220px; 
+}
